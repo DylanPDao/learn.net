@@ -1,0 +1,28 @@
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/bin/Debug/net7.0/TestProject
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/bin/Debug/net7.0/TestProject.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/bin/Debug/net7.0/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/bin/Debug/net7.0/TestProject.pdb
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/refint/TestProject.dll
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.pdb
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/call method challenge/obj/Debug/net7.0/ref/TestProject.dll

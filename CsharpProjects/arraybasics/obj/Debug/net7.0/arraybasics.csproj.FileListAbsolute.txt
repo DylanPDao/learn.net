@@ -1,0 +1,14 @@
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/bin/Debug/net7.0/arraybasics
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/bin/Debug/net7.0/arraybasics.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/bin/Debug/net7.0/arraybasics.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/bin/Debug/net7.0/arraybasics.dll
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/bin/Debug/net7.0/arraybasics.pdb
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.dll
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/refint/arraybasics.dll
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.pdb
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/arraybasics.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/arraybasics/obj/Debug/net7.0/ref/arraybasics.dll

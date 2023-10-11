@@ -60,10 +60,15 @@ foreach (string name in studentNames)
         studentScores = loganScores;
 
     int sumAssignmentScores = 0;
+    int sumExtraCreditScores = 0;
 
     decimal currentStudentGrade = 0;
+    decimal currentStudentExamScore = 0;
+    decimal currentStudentExtraCreditScore = 0;
 
     int gradedAssignments = 0;
+    int gradedExtraCreditAssignments = 0;
+
 
     /*
     the inner foreach loop sums assignment scores
@@ -77,8 +82,11 @@ foreach (string name in studentNames)
             sumAssignmentScores += score;
 
         else
-            sumAssignmentScores += score / 10;
+            sumExtraCreditScores += score;
+            gradedAssignments += 1;
     }
+
+    sumExam
 
     currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
 

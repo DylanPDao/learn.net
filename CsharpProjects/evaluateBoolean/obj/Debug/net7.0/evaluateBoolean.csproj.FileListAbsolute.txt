@@ -1,0 +1,14 @@
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/bin/Debug/net7.0/evaluateBoolean
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/bin/Debug/net7.0/evaluateBoolean.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/bin/Debug/net7.0/evaluateBoolean.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/bin/Debug/net7.0/evaluateBoolean.dll
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/bin/Debug/net7.0/evaluateBoolean.pdb
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.dll
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/refint/evaluateBoolean.dll
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.pdb
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/evaluateBoolean.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/evaluateBoolean/obj/Debug/net7.0/ref/evaluateBoolean.dll

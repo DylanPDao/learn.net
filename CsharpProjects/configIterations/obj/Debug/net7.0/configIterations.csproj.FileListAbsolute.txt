@@ -1,0 +1,14 @@
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/bin/Debug/net7.0/configIterations
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/bin/Debug/net7.0/configIterations.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/bin/Debug/net7.0/configIterations.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/bin/Debug/net7.0/configIterations.dll
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/bin/Debug/net7.0/configIterations.pdb
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.dll
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/refint/configIterations.dll
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.pdb
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/configIterations.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/configIterations/obj/Debug/net7.0/ref/configIterations.dll

@@ -1,0 +1,14 @@
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/bin/Debug/net7.0/switchStatements
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/bin/Debug/net7.0/switchStatements.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/bin/Debug/net7.0/switchStatements.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/bin/Debug/net7.0/switchStatements.dll
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/bin/Debug/net7.0/switchStatements.pdb
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.dll
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/refint/switchStatements.dll
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.pdb
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/switchStatements.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/switchStatements/obj/Debug/net7.0/ref/switchStatements.dll

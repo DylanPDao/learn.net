@@ -8,45 +8,43 @@ string type = "";
 string color = "";
 string size = "";
 
-if (product[0] == "01")
-{
-    type = "Sweat shirt";
-} else if (product[0] == "02")
-{
+switch (product[0]) {
+  case "01":
+    type = "Sweat Shirt";
+    break;
+  case "02":
     type = "T-Shirt";
-} else if (product[0] == "03")
-{
-    type = "Sweat pants";
-}
-else
-{
+    break;
+  case "03":
+    type = "Sweat Pants";
+    break;
+  default:
     type = "Other";
-}
+    break;
+};
 
-if (product[1] == "BL")
-{
+switch (product[1]) {
+  case "BL":
     color = "Black";
-} else if (product[1] == "MN")
-{
+    break;
+  case "MN":
     color = "Maroon";
-} else
-{
+    break;
+  default:
     color = "White";
+    break;
 }
 
-if (product[2] == "S")
-{
+switch (product[2]) {
+  case "S":
     size = "Small";
-} else if (product[2] == "M")
-{
+    break;
+  case "M":
     size = "Medium";
-} else if (product[2] == "L")
-{
+    break;
+  case "L":
     size = "Large";
-} else
-{
-    size = "One Size Fits All";
+    break;
 }
 
 Console.WriteLine($"Product: {size} {color} {type}");
-Console.WriteLine($"{employeeName}, {title}");

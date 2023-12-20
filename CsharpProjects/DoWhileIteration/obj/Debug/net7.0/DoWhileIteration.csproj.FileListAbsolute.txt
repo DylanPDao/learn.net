@@ -1,0 +1,14 @@
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.AssemblyInfoInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.AssemblyInfo.cs
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.csproj.CoreCompileInputs.cache
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/bin/Debug/net7.0/DoWhileIteration
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/bin/Debug/net7.0/DoWhileIteration.deps.json
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/bin/Debug/net7.0/DoWhileIteration.runtimeconfig.json
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/bin/Debug/net7.0/DoWhileIteration.dll
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/bin/Debug/net7.0/DoWhileIteration.pdb
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.dll
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/refint/DoWhileIteration.dll
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.pdb
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/DoWhileIteration.genruntimeconfig.cache
+/Users/d/Repos/learn.net/CsharpProjects/DoWhileIteration/obj/Debug/net7.0/ref/DoWhileIteration.dll
